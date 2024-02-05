@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">trilium</string>
+    <string name="title_activity_main">trilium</string>
+    <string name="package_name">com.trilium.app</string>
+    <string name="custom_url_scheme">com.trilium.app</string>
+</resources>
